@@ -1,15 +1,15 @@
 {
-  "tp": 292,
-  "fp": 292,
-  "fn": 7448,
-  "precision": 0.5,
-  "recall": 0.0377,
-  "f1": 0.0702,
+  "tp": 0,
+  "fp": 0,
+  "fn": 7740,
+  "precision": 0.0,
+  "recall": 0.0,
+  "f1": 0.0,
   "avg_tactic_accuracy": 0.0,
   "avg_technique_accuracy": 0.0,
   "avg_importance_accuracy": 0.0,
-  "avg_f1_en": 0.0,
-  "avg_f1_ru": 0.0,
-  "total_files_en": 0,
-  "total_files_ru": 0
+  "avg_f1_en": 0.8666,
+  "avg_f1_ru": 0.7072,
+  "total_files_en": 54,
+  "total_files_ru": 54
 }
