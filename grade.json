@@ -8,8 +8,8 @@
   "avg_tactic_accuracy": 0.0,
   "avg_technique_accuracy": 0.0,
   "avg_importance_accuracy": 0.0,
-  "avg_f1_en": 0.0,
-  "avg_f1_ru": 0.0,
-  "total_files_en": 0,
-  "total_files_ru": 0
+  "avg_f1_en": 0.838,
+  "avg_f1_ru": 0.6559,
+  "total_files_en": 53,
+  "total_files_ru": 53
 }
